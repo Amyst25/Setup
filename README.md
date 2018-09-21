@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/Amyst25/Setup.svg?branch=master)](https://travis-ci.org/Amyst25/Setup)
